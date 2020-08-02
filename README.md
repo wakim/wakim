@@ -6,7 +6,7 @@ Hi, I'm Wakim Jraige 👋
 
 :man_technologist: <strong>I'm a Fullstack Developer</strong>
 
-<img height="12" src="https://raw.githubusercontent.com/wakim/wakim/master/assets/images/carta_logo.png" /> **I'm currently working as a software engineer at Carta, working with Android in my spare time**
+<img height="12" src="https://raw.githubusercontent.com/wakim/wakim/master/assets/images/carta_logo.png" /> **I'm currently working as a software engineer at Carta, working with Android development in my spare time <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">**
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wakim&show_icons=true">
 
