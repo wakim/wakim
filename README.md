@@ -1,12 +1,10 @@
 Hi, I'm Wakim Jraige 👋
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=informational&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/wakimjraige)
-
 ## About me
 
-:man_technologist: <strong>I'm a Software Engineer</strong>
+<img height="12" src="https://raw.githubusercontent.com/wakim/wakim/master/assets/images/carta_logo.png" /> **I'm a Software Engineer currently working at Carta, working with Android development in my spare time <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">**
 
-<img height="12" src="https://raw.githubusercontent.com/wakim/wakim/master/assets/images/carta_logo.png" /> **I'm currently working as a software engineer at Carta, working with Android development in my spare time <img height="12" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">**
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=informational&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/wakimjraige)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wakim&show_icons=true">
 
