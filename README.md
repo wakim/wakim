@@ -6,8 +6,6 @@ Hi, I'm Wakim Jraige 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=informational&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/wakimjraige)
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=wakim&show_icons=true">
-
 ## Languages and Technologies I use daily
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
